@@ -1,5 +1,5 @@
 # TableTech
-Table Tech is a restaurant automation system that we created as part of our final project submission for software engineering lab in sixth semester. 
+Table Tech is a RESTAURANT AUTOMATION SYSTEM that we created as part of our final project submission for SOFTWARE ENGINEERING LAB. 
 
 The project focuses less on coding and more on understanding the SOFTWARE DEVELOPMENT ACTIVITIES and DOCUMENATATION of the same for a software product.
 
