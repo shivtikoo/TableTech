@@ -6,7 +6,7 @@ The project focuses less on coding and more on understanding the SOFTWARE DEVELO
 The documentation was made using latex, link for the same:
 https://www.overleaf.com/read/tkkttfmyhgxj
 
-View the presentation on TableTech:
+View the presentation for TableTech:
 https://www.canva.com/design/DAFfEZeyun8/J2uQD_GSzSWEixVBlRaEgQ/edit?utm_content=DAFfEZeyun8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Drive Link to Project Report & Code:
